@@ -55,7 +55,7 @@ void directionChangeTest(){
  * Put the theta value to >{pi}/2 and ensure that LED1 is properly lit. 
  *
  *****************************************************************************/
-void directionChangeTest(){
+void LED1Test(){
 }
 
 /**************************************************************************//**
